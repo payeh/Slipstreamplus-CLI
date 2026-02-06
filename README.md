@@ -67,14 +67,14 @@ slipscan_cli.exe realtest --help
 
 ## Scan Command
 
-### Basic Scan with Live UI
-```bash
-slipscan_cli.exe scan --domain s.domain.com --file iran-ipv4.cidrs --random-per-cidr 8 --threads 100 --timeout-ms 800 --ui
-```
-
 ### Quick Run (LIVE RealPing + Save OK IPs)
 ```bash
 slipscan_cli.exe scan --domain s.domain.top --file iran-ipv4.cidrs --random-per-cidr 8 --threads 100 --timeout-ms 800 --auto-realtest live --realtest-parallel 2 --realtest-slipstream-path .\slipstream-client-windows-amd64.exe --realtest-ok-out real_ok.txt --realtest-ok-format ip
+```
+
+### Basic Scan with Live UI
+```bash
+slipscan_cli.exe scan --domain s.domain.com --file iran-ipv4.cidrs --random-per-cidr 8 --threads 100 --timeout-ms 800 --ui
 ```
 
 ### Scan Without UI (script mode)
