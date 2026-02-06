@@ -29,19 +29,7 @@ It provides a **live terminal dashboard** with progress, ETA, and tables, while 
   - RealPing OK IPs with latency (ip ms)
 - RealPing-only mode (no scan required)
 
----
 
-## Project Files
-```
-Slipstreamplus-CLI/
-|-- slipscan_cli.py
-|-- slipstream-client-windows-amd64.exe
-|-- libcrypto-3-x64.dll
-|-- libssl-3-x64.dll
-|-- iran-ipv4.cidrs
-|-- README.md
-`-- requirements.txt
-```
 
 ---
 
