@@ -4,6 +4,8 @@
 Slipstreamplus-CLI is a powerful command-line (CLI) tool for **high-speed IP/CIDR scanning** and performing **real network latency tests (RealPing)** using Slipstream.
 It provides a **live terminal dashboard** with progress, ETA, and tables, while also supporting **script-friendly output files**.
 
+![Slipstreamplus-CLI Screenshot](screen.jpg)
+
 ---
 
 ## What Does This Tool Do?
