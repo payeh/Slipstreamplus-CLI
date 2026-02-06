@@ -4,9 +4,19 @@
 Slipstreamplus-CLI is a powerful command-line (CLI) tool for **high-speed IP/CIDR scanning** and performing **real network latency tests (RealPing)** using Slipstream.
 It provides a **live terminal dashboard** with progress, ETA, and tables, while also supporting **script-friendly output files**.
 
+**فارسی | English:** [فارسی](#فارسی) | [English](#english)
+
 ![Slipstreamplus-CLI Screenshot](screen.jpg)
 
 ---
+
+## English
+Slipstream uses the DNS protocol to help you bypass strict restrictions and 2026-era whitelisting systems. 🚀🌐🔓  
+It does this by tunneling traffic in a way that can pass through networks where only DNS is allowed, giving you a reliable path even under heavy filtering. 🧭⚡✅
+
+## فارسی
+Slipstream با استفاده از پروتکل DNS به شما اجازه می‌دهد از محدودیت‌های شدید و سیستم‌های Whitelisting (لیست سفید) که در سال ۲۰۲۶ اعمال شده عبور کنید. 🚀🌐🔓  
+این ابزار با تونل‌کردن ترافیک طوری عمل می‌کند که از شبکه‌هایی عبور کند که فقط DNS را مجاز می‌دانند و حتی زیر فیلترینگ سنگین هم مسیر پایدار فراهم می‌کند. 🧭⚡✅
 
 ## What Does This Tool Do?
 1. Scans IP addresses or CIDR ranges using UDP/53 (DNS probing)
