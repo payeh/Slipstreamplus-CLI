@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# logs and outputs
+*.log
+scan_ok*.txt
+real_ok*.txt
+real_ok_ipms*.txt
+ok_ipms*.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
